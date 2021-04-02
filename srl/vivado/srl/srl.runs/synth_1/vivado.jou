@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Apr  2 13:47:00 2021
+# Process ID: 14144
+# Current directory: C:/prj/fpga-inside/srl/vivado/srl/srl.runs/synth_1
+# Command line: vivado.exe -log srl_6_vhdl_attr_2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source srl_6_vhdl_attr_2.tcl
+# Log file: C:/prj/fpga-inside/srl/vivado/srl/srl.runs/synth_1/srl_6_vhdl_attr_2.vds
+# Journal file: C:/prj/fpga-inside/srl/vivado/srl/srl.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source srl_6_vhdl_attr_2.tcl -notrace

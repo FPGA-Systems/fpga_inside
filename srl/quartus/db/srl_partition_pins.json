@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "oq",
+					"strict" : false
+				},
+				{
+					"name" : "iclk",
+					"strict" : false
+				},
+				{
+					"name" : "ireset",
+					"strict" : false
+				},
+				{
+					"name" : "id",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

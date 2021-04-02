@@ -1,0 +1,20 @@
+Fitter Status : Successful - Fri Apr 02 14:44:51 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : srl
+Top-level Entity Name : srl_7_verilog_reset
+Family : Cyclone V
+Device : 5CEBA2F17A7
+Timing Models : Final
+Logic utilization (in ALMs) : 33 / 9,430 ( < 1 % )
+Total registers : 128
+Total pins : 4 / 128 ( 3 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 1,802,240 ( 0 % )
+Total RAM Blocks : 0 / 176 ( 0 % )
+Total DSP Blocks : 0 / 25 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 4 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
